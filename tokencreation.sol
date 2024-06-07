@@ -17,7 +17,7 @@ contract My_Token {
     balances[_addr] += _val;
   }
 
-  // burn function with error handling
+  // burn function 
   function burn(address _addr, uint _val) public {
     if(balances[_addr] >= _val){
       totalSupply -= _val;
