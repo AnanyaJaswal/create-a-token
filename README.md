@@ -9,6 +9,7 @@ This project is a simple Solidity smart contract that implements basic token fun
 In this Project .a token is created named HallyuWaveCoin whose abbreviation is "HWC". This contract includes minting of tokens which increases the total supply and balance of a specified address and burning of tokens which decreases the total supply and balance of the specified address.
 
 
+
 ## Getting Started
 
 ### Executing Program
